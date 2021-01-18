@@ -3,7 +3,7 @@
 Java Implementation of the legendary snake game. Goal of game is to eat as much apples as possible.
 Snake grows in length as it eats apples. This games uses codegym's Game class library.
 Play my game here: https://codegym.cc/projects/apps/42167
-Enjoy!
+
 <img src="game.PNG" alt="Screenshot of HungrySnake Game" width="400" height="400"/>
 
 ## Controls
