@@ -10,7 +10,7 @@ Play my game here: https://codegym.cc/projects/apps/42167
 1. Use UP, DOWN, LEFT and RIGHT arrow keys to control snake movement.
 2. Use spacebar to restart a game after game over.
 
-## Rules:
+## Rules
 1. Game over if snake goes beyond the tile boundary.
 2. Game over if snake crosses itself.
 
