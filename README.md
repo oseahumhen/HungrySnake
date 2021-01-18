@@ -4,13 +4,13 @@ Java Implementation of the legendary snake game. Goal of game is to eat as much 
 Snake grows in length as it eats apples. This games uses codegym's Game class library.
 Play my game here: https://codegym.cc/projects/apps/42167
 Enjoy!
-<img src="game.png" alt="Screenshot of HungrySnake Game" width="400" height="400"/>
+<img src="game.PNG" alt="Screenshot of HungrySnake Game" width="400" height="400"/>
 
-##Controls
+## Controls
 1. Use UP, DOWN, LEFT and RIGHT arrow keys to control snake movement.
 2. Use spacebar to restart a game after game over.
 
-##Rules:
+## Rules:
 1. Game over if snake goes beyond the tile boundary.
 2. Game over if snake crosses itself.
 
@@ -19,5 +19,5 @@ Enjoy!
 2. Add special point boosters stones.
 3. Add bad fruits which makes snake shrink in length
 
-##References
+## References
 1. https://codegym.cc/projects/games/com.codegym.games.snake
